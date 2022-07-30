@@ -1,33 +1,31 @@
-H.R.3967 - Honoring our PACT Act of 2022
+S.3373 - Honoring our PACT Act of 2022
 
-Senate Vote: 230
-https://www.senate.gov/legislative/LIS/roll_call_votes/vote1172/vote_117_2_00230.htm
+Senate Vote: 272
+https://www.senate.gov/legislative/LIS/roll_call_votes/vote1172/vote_117_2_00272.htm
 
-Tally: 84-14
-Date: Jun 16
-Result: Passed
+Tally: 55-42
+Date: Jul 27
+Result: Rejected
 
-Text Source: Source: https://www.congress.gov/bill/117th-congress/house-bill/3967/text?format=txt
+Text Source: https://www.congress.gov/bill/117th-congress/senate-bill/3373/text?format=txt
 
 Shown Here:
-Engrossed Amendment Senate (06/16/2022)
+Engrossed Amendment House (07/13/2022)
 [Congressional Bills 117th Congress]
 [From the U.S. Government Publishing Office]
-[H.R. 3967 Engrossed Amendment Senate (EAS)]
+[S. 3373 Engrossed Amendment House (EAH)]
 
-  
-                  In the Senate of the United States,
 
-                                                         June 16, 2022.
-    Resolved, That the bill from the House of Representatives (H.R. 
-3967) entitled ``An Act to improve health care and benefits for 
-veterans exposed to toxic substances, and for other purposes.'', do 
-pass with the following
+                In the House of Representatives, U. S.,
+
+                                                         July 13, 2022.
+    Resolved, That the bill from the Senate (S. 3373) entitled ``An Act 
+to improve the Iraq and Afghanistan Service Grant and the Children of 
+Fallen Heroes Grant.'', do pass with the following
 
                                AMENDMENT:
 
-             Strike all after the enacting clause and insert the 
-      following:
+            Strike out all after the enacting clause and insert:
 
 SECTION 1. SHORT TITLE; REFERENCES TO TITLE 38, UNITED STATES CODE; 
               TABLE OF CONTENTS.
@@ -2934,10 +2932,7 @@ facility of the Department.
         the individual does not obtain, or fails to maintain, 
         employment as an employee of the Department due to staffing 
         changes approved by the Under Secretary for Health.
-    (e) Not a Taxable Benefit.--A contract buy out for a covered health 
-care professional under subsection (a) shall not be considered a 
-taxable benefit or event for the covered health care professional.
-    (f) Annual Report.--
+    (e) Annual Report.--
             (1) In general.--Not later than 18 months after the date of 
         the enactment of this Act, and not less frequently than 
         annually thereafter, the Secretary of Veterans Affairs shall 
@@ -2959,7 +2954,7 @@ taxable benefit or event for the covered health care professional.
                 under subsection (a) was utilized and the number of 
                 covered health care professionals who agreed to be 
                 employed at such location in the previous fiscal year.
-    (g) Definitions.--In this section:
+    (f) Definitions.--In this section:
             (1) Covered health care professional.--The term ``covered 
         health care professional'' means a physician, nurse 
         anesthetist, physician assistant, or nurse practitioner offered 
@@ -2969,7 +2964,7 @@ taxable benefit or event for the covered health care professional.
         rural'' have the meanings given those terms under the rural-
         urban commuting areas coding system of the Department of 
         Agriculture.
-    (h) Sunset.--This section shall terminate on September 30, 2027.
+    (g) Sunset.--This section shall terminate on September 30, 2027.
 
 SEC. 903. QUALIFICATIONS FOR HUMAN RESOURCES POSITIONS WITHIN 
               DEPARTMENT OF VETERANS AFFAIRS AND PLAN TO RECRUIT AND 
@@ -3356,12 +3351,12 @@ terminate on September 30, 2027.''.
 
             Attest:
 
-                                                             Secretary.
+                                                                 Clerk.
 117th CONGRESS
 
   2d Session
 
-                               H.R. 3967
+                                S. 3373
 
 _______________________________________________________________________
 
